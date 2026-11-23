@@ -1,6 +1,8 @@
 # Monday 23 November 2026: 36 stories, 7 regions — COP31 collapses, Ukraine peace push, Nvidia SEC probe
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261123-blue)](https://make.fun/c/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Wedspierre/news-image-20261123-entry/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Wedspierre/news-image-20261123-entry/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 One image that sums up the world news of **Monday 23 November 2026**: a newspaper
